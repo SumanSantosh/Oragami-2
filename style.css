@@ -1,0 +1,30 @@
+
+*{
+    border:linen
+    
+  }
+  h1{
+      color:white
+  }
+  .header{
+      background-color: blue;
+      display: flex;
+      justify-content: space-between
+  }
+  .grid{
+      background-color: white;
+      display:flex;
+      justify-content:space space-evenly;
+      flex-wrap: wrap;
+  }
+  .grid p{
+      text-align:center;
+      color: black;
+
+  }
+  .subhead{
+      background-color: white;
+      color:rgb(0, 0, 0);
+      text-align:center;
+  
+    }
